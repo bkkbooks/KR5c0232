@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5c0232/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5c0232/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 保生銘
+  date: '2015-08-29 00:54:46.907524'
+  source:
+    repository: kanripo
+    path: KR5c0232
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0232_000-ZTDZ.yaml, hash: 'sha256:574497a3ef167f5c01870622895bc8b72775009dd58a12e70329d31824e997f4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0232_000-ZTDZ.markers.yaml, hash: 'sha256:779b7b983de9efe8cc3d34dc1bd63a89ad55da52c8f0c4dd82d452a2c5148467'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0232_SJB_000-180459b
+    span:
+    - body
+    - 0
+    - 261
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:49c9c1ecad8da1f3995c6caa2345862250db9ae5bf8dfa5c20b04bcea8881572

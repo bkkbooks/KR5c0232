@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5c0232/HFL/v1/juan/0
+seq: 0
+front:
+  text: 保生銘
+  hash: sha256:b599f9c69fe12d722dec0544f8ca10fabf61f6eac0f16b62e1ff4b25e809d643
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0232_HFL_000-001a, image: hfl/0571/0571-090.png}
+body:
+  text: 唐思邈孫眞人述人若勞於形百病不能成飲酒忌大醉諸疾自不生食了行百歩數將手摩肚睡不苦髙枕唾涕不遠顧寅丑日剪甲理髮須百度飽則立小便飢乃坐漩溺行坐莫當風居處無小隟向北大小便一生昏羃羃日月固然忌水火仍畏避毎夜洗脚卧飽食絳無益忍辱爲上乗讒言斷親戚思慮最傷神喜怒傷和息毎去鼻中毛常習不唾地平明欲起時下牀先左脚一日免灾咎去邪兼辟惡但能七星歩今人長夀樂酸味傷於筋辛味損正氣苦則損於心甘則傷其志鹹多促人夀不得偏耽嗜春夏任宣通秋冬固陽事獨卧是守眞慎靜最爲貴財帛生有分知足將爲利强知是大患少欲終無累神氣自然存學道須終始書於壁戶間將用傳君子保生銘终
+  hash: sha256:640f1d242022641fd2486b355526d334bd68caa4377081fa3e9bc7a7f1950d30
+metadata:
+  title: 保生銘
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-29 00:54:46.907524'
+  source:
+    repository: kanripo
+    path: KR5c0232/KR5c0232_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:63a0a5cd8b1780df2bacf43e3abb06ebbd0f6afbf32f6f62c4a9a439d4e14170
